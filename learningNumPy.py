@@ -13,7 +13,7 @@ res = np.dot(array_1, array_2)
 array = np.array([1,2,3])
 array1 = np.array([4,5,6])
 array2 = np.dot(array, array1)
-print(array2)
+# print(array2)
 
 help(np.dot)
 
