@@ -7,14 +7,12 @@ array_1 = np.array([[1, 2, 7], [3, 4, 8]])
 array_2 = np.array([[1, 2], [3, 9], [4, 16]])
 
 
-res = np.dot(array_1, array_2)
-# print(res)
+result = np.dot(array_1, array_2)
+print(result)
 
-array = np.array([1,2,3])
-array1 = np.array([4,5,6])
-array2 = np.dot(array, array1)
+# array = np.array([1,2,3])
+# array1 = np.array([4,5,6])
+# array2 = np.dot(array, array1)
 # print(array2)
 
-help(np.dot)
-
-
+# help(np.dot)
