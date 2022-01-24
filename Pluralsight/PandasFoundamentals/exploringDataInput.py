@@ -18,4 +18,4 @@ df = pd.read_csv('C:\CmaCode\python\pythonLearning\Pluralsight\PandasFoundamenta
                  usecols = colsToUse)
 
 # Save for later
-df.to_pickle(os.path.join('..', 'data_frame.pickle'))
+df.to_pickle(os.path.join('Pluralsight', 'PandasFoundamentals', 'data_pickle', 'data_frame.pickle'))
