@@ -17,8 +17,8 @@ colsToUse = ['id', 'artist',
                'acquisitionYear', 'height',
                'width', 'units']
 
-# Read just 5 rows to see what's there
-df = pd.read_csv(os.path.join(csvPath), index_col = 'id', usecols = colsToUse)
+# Proper data loading
+df = pd.read_csv(csvPath, usecols=colsToUse, index_col='id')
 
 # Save for later
 df.to_pickle(os.path.join(currentDirectory, 'data_pickle', 'data_frame.pickle'))
