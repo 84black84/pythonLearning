@@ -1,6 +1,6 @@
 # 3. Exploring Pandas Data Input capabilities.py
-import pandas as pd
 import os
+import pandas as pd
 
 # Where our data lives
 currentDirectory = ''
