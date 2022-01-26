@@ -1,0 +1,14 @@
+setup.py
+PandasFoundamentals/__init__.py
+PandasFoundamentals/dataInput/__init__.py
+PandasFoundamentals/dataInput/exploringCsvDataInput.py
+PandasFoundamentals/gettingStarted/__init__.py
+PandasFoundamentals/gettingStarted/gettingStarted.py
+PandasFoundamentals/helperClasses/__init__.py
+PandasFoundamentals/helperClasses/helperClass.py
+PandasFoundamentals/indexingAndFiltering/__init__.py
+PandasFoundamentals/indexingAndFiltering/demo1.py
+myproject.egg-info/PKG-INFO
+myproject.egg-info/SOURCES.txt
+myproject.egg-info/dependency_links.txt
+myproject.egg-info/top_level.txt
