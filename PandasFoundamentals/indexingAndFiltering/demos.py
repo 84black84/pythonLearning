@@ -6,7 +6,6 @@ helper = HelperClass()
 currentDirectory = helper.getCurrentDirectoryPath()
 df = pd.read_pickle(os.path.join(currentDirectory, 'data', 'data_frame.pickle'))
 
-
 # Demo1
 artists = df['artist']
 pd.unique(artists)
