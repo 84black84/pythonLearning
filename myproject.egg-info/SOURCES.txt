@@ -7,7 +7,11 @@ PandasFoundamentals/gettingStarted/gettingStarted.py
 PandasFoundamentals/helperClasses/__init__.py
 PandasFoundamentals/helperClasses/helperClass.py
 PandasFoundamentals/indexingAndFiltering/__init__.py
-PandasFoundamentals/indexingAndFiltering/demo1.py
+PandasFoundamentals/indexingAndFiltering/demos.py
+PandasFoundamentals/operationsAndGroups/__init__.py
+PandasFoundamentals/operationsAndGroups/demos.py
+PandasFoundamentals/plotting/__init__.py
+PandasFoundamentals/plotting/demos.py
 myproject.egg-info/PKG-INFO
 myproject.egg-info/SOURCES.txt
 myproject.egg-info/dependency_links.txt
